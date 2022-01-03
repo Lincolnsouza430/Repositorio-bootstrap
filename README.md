@@ -7,4 +7,4 @@
 Formulário em HTML 5 e CSS Básico e Bootstrap 
 
 ### Versão Final
-<img src="bootstrap-project" alt="Web Version"/>
+<img src="bootstrap-project.png" alt="Web Version"/>
